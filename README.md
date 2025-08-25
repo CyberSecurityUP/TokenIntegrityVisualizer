@@ -107,5 +107,3 @@ This tool requires elevated privileges (Administrator or SYSTEM) for complete re
 
 Developed by **Joas A Santos**.
 Inspired by real-world offensive and defensive security operations.
-
-👉 Do you want me to also generate a **`LICENSE` file suggestion** (e.g., MIT, Apache 2.0) so you can publish this as open-source on GitHub?
