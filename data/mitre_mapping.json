@@ -1,0 +1,14 @@
+{
+    "SeDebugPrivilege": {
+        "technique": "T1003.001 - LSASS Memory",
+        "impact": "Credential Access"
+    },
+    "SeImpersonatePrivilege": {
+        "technique": "T1134.001 - Token Impersonation/Theft",
+        "impact": "Privilege Escalation"
+    },
+    "SeLoadDriverPrivilege": {
+        "technique": "T1547.006 - Kernel Extensions and Drivers",
+        "impact": "Persistence / Privilege Escalation"
+    }
+}

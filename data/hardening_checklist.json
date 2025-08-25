@@ -1,0 +1,6 @@
+[
+    "Remove unnecessary privileges",
+    "Restrict SeDebugPrivilege to administrators only",
+    "Audit AppContainer capabilities",
+    "Apply Mandatory Integrity Controls"
+]
